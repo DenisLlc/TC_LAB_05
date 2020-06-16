@@ -5,7 +5,7 @@
 
 %%
 El {return(ARTICULO);}
-alumno {return(SUJETO);};
+alumno {return(SUJETO);}
 estudia {return(VERBO);}
 
 %%
