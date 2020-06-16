@@ -9,7 +9,7 @@
 
 %%
 
-parentesis: APERTURA CIERRE {printf("Parentesis reconocidos\n");}
+parentesis: APERTURA CIERRE {printf("\nParentesis reconocidos\n");}
 ;
 
 %%

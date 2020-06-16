@@ -1097,7 +1097,7 @@ yyreduce:
     {
   case 2:
 #line 12 "sintactico.y"
-                            {printf("Parentesis reconocidos\n");}
+                            {printf("\nParentesis reconocidos\n");}
 #line 1102 "sintactico.tab.c"
     break;
 
