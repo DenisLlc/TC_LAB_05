@@ -7,7 +7,7 @@
 
 La {return(ARTICULOSIN);}
 Las {return(ARTICULOPLU);}
-flor|mariposa|abeja {return(SUJETOSIN);};
+flor|mariposa|abeja {return(SUJETOSIN);}
 flores|mariposas|abejas {return(SUJETOPLU);};
 
 
